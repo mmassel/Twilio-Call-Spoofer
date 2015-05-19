@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather action="/dial.php" method="GET" finishOnKey="#">    
+    <Say voice='woman' language='en-gb'>
+         Ten digits and pound sign please.</Say>
+    </Gather>    
+</Response>
